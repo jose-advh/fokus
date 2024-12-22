@@ -1,0 +1,11 @@
+{
+  "name": "fokus",
+  "version": "1.0.0",
+  "description": "Fokus",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Diaz",
+  "license": "ISC"
+}
