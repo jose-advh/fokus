@@ -1,7 +1,6 @@
 {
-    "appId": "fokus.app",
-    "appName": "Fokus",
-    "webDir": "www",
-    "bundledWebRuntime": false
-  }
-  
+  "appId": "fokus.app",
+  "appName": "Fokus",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
